@@ -1,4 +1,4 @@
--  Hi, I’m Abdulfatai Issa Adesina
+-  Hi, I’m Issa Adesina Fatai
 -  I work as a backend developer with four years experience in PHP,Laravel and NodeJS
 -  I’m working currently on RoutesNow, a Routes Optimization Software, owned by Senpex LLC. Senpex HQ 3566 Stevens Creek Blvd San Jose, CA 95117
 -  I work as a remote backend developer
